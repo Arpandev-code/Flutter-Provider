@@ -1,6 +1,6 @@
-# provider_test1
+# Flutter Provider App
 
-A new Flutter project.
+A small project based on Provider state management
 
 ## Getting Started
 
